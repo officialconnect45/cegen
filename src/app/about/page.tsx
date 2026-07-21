@@ -7,8 +7,8 @@ export const metadata = {
 
 export default function AboutPage() {
   return (
-    <section className="px-4 py-12 sm:px-6 sm:py-16">
-      <div className="mx-auto max-w-3xl">
+    <section className="py-12 sm:py-16">
+      <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="mb-12 text-center">
           <p className="text-sm font-semibold uppercase tracking-[0.2em] text-violet-400">
             About CEGEN
